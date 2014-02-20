@@ -1,0 +1,11 @@
+{
+  "name": "stagas-async-map",
+  "description": "asynchronous map",
+  "version": "0.0.2",
+  "keywords": [
+    "async",
+    "map"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
